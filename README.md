@@ -46,3 +46,5 @@ root@debian:/home/debian/packer# yc compute image list
 - Скриншот работающего веб-интерфейса Grafana с текущими метриками:
 
 ### Ответ:
+
+![image](https://user-images.githubusercontent.com/108946489/201950420-fa7f3831-6e73-47ab-a02d-28d8392ae645.png)
