@@ -34,7 +34,7 @@ root@debian:/home/debian/packer# yc compute image list
 - Скриншот страницы свойств созданной ВМ:
 
 ### Ответ:
-![image](https://user-images.githubusercontent.com/108946489/201882900-b1bbbebe-c739-4252-8d46-1dbba90eaeb9.png)
+![image](https://user-images.githubusercontent.com/108946489/201945924-ec834850-0b17-4060-9732-f4ae70bf4887.png)
 
 
 
